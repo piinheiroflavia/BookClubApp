@@ -1,0 +1,7 @@
+{
+  "name": "BookClubApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

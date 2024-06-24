@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "nomeLivro": "Dom Casmurro",
+    "nomeAutor": "Machado de Assis",
+    "ano": 1899,
+    "qtdPaginas": 256,
+    "sinopse": "Dom Casmurro é um romance escrito por Machado de Assis, publicado em 1899. Narra a história de Bento Santiago, um advogado do Rio de Janeiro, que é suspeito de traição por sua esposa Capitu.",
+    "categoria": "Romance",
+    "editora": "Editora Garnier",
+    "avaliacao": 4.5,
+    "imagemCapa": "https://m.media-amazon.com/images/I/81XpG2iKTlL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  },
+  {
+    "id": 2,
+    "nomeLivro": "Memórias Póstumas de Brás Cubas",
+    "nomeAutor": "Machado de Assis",
+    "ano": 1881,
+    "qtdPaginas": 208,
+    "sinopse": "Memórias Póstumas de Brás Cubas é um romance escrito por Machado de Assis, publicado em 1881. É uma obra marcante do Realismo brasileiro, narrada por Brás Cubas, um defunto autor.",
+    "categoria": "Romance",
+    "editora": "Editora Garnier",
+    "avaliacao": 4.6,
+    "imagemCapa": "https://m.media-amazon.com/images/I/815u+SBDpJL._AC_UF1000,1000_QL80_.jpg"
+  },
+  
+  {
+    "id": 4,
+    "nomeLivro": "O Cortiço",
+    "nomeAutor": "Aluísio Azevedo",
+    "ano": 1890,
+    "qtdPaginas": 288,
+    "sinopse": "O Cortiço é um romance naturalista escrito por Aluísio Azevedo, publicado em 1890. Descreve a vida miserável e cruel dos moradores de um cortiço no Rio de Janeiro do século XIX.",
+    "categoria": "Romance",
+    "editora": "Editora Saraiva",
+    "avaliacao": 4.4,
+    "imagemCapa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8XxrIbug09s3SFEAETErwK9bU3l9mSd1Ij0psojDkA&s"
+  },
+  {
+    "id": 5,
+    "nomeLivro": "Sagarana",
+    "nomeAutor": "João Guimarães Rosa",
+    "ano": 1946,
+    "qtdPaginas": 264,
+    "sinopse": "Sagarana é uma coletânea de contos escrita por João Guimarães Rosa, publicada em 1946. É a obra de estreia do autor, que explora o universo do sertão mineiro.",
+    "categoria": "Contos",
+    "editora": "Editora Nova Fronteira",
+    "avaliacao": 4.5,
+    "imagemCapa": "https://m.media-amazon.com/images/I/81VvCG8xXWL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  },
+  {
+    "id": 6,
+    "nomeLivro": "A Hora da Estrela",
+    "nomeAutor": "Clarice Lispector",
+    "ano": 1977,
+    "qtdPaginas": 192,
+    "sinopse": "A Hora da Estrela é um romance escrito por Clarice Lispector, publicado em 1977. Conta a história de Macabéa, uma nordestina ingênua que vai tentar a vida no Rio de Janeiro.",
+    "categoria": "Romance",
+    "editora": "Editora Rocco",
+    "avaliacao": 4.6,
+    "imagemCapa": "https://m.media-amazon.com/images/I/810Vj9zyi-L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 7,
+    "nomeLivro": "Vidas Secas",
+    "nomeAutor": "Graciliano Ramos",
+    "ano": 1938,
+    "qtdPaginas": 184,
+    "sinopse": "Vidas Secas é um romance escrito por Graciliano Ramos, publicado em 1938. Narra a história de uma família de retirantes nordestinos em busca de sobrevivência em meio à seca.",
+    "categoria": "Romance",
+    "editora": "Editora Record",
+    "avaliacao": 4.8,
+    "imagemCapa": "https://m.media-amazon.com/images/I/71NYL2AbBIL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "nomeLivro": "O Alienista",
+    "nomeAutor": "Machado de Assis",
+    "ano": 1882,
+    "qtdPaginas": 128,
+    "sinopse": "O Alienista é uma novela escrita por Machado de Assis, publicada em 1882. Conta a história do médico Simão Bacamarte, que decide construir um manicômio em uma cidade do interior.",
+    "categoria": "Novela",
+    "editora": "Editora Nova Aguilar",
+    "avaliacao": 4.5,
+    "imagemCapa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKflHMm-FEGELZLFmQ4SDq9GKPGmu3X7cT_6VZkoshA&s"
+  },
+  {
+    "id": 9,
+    "nomeLivro": "Harry Potter e a Pedra Filosofal",
+    "nomeAutor": "J.K. Rowling",
+    "ano": 1997,
+    "qtdPaginas": 309,
+    "sinopse": "O livro conta a história de um jovem chamado Harry Potter que descobre ser um bruxo e é levado para a Escola de Magia e Bruxaria de Hogwarts, onde faz novos amigos e enfrenta desafios mágicos.",
+    "categoria": "Fantasia",
+    "editora": "Editora Rocco",
+    "avaliacao": 4.8,
+    "imagemCapa": "https://m.media-amazon.com/images/I/61jgm6ooXzL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "nomeLivro": "O Senhor dos Anéis: A Sociedade do Anel",
+    "nomeAutor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "qtdPaginas": 372,
+    "sinopse": "Neste primeiro livro da trilogia O Senhor dos Anéis, um hobbit chamado Frodo Baggins é encarregado de destruir um anel mágico que pode trazer destruição ao mundo se cair nas mãos erradas.",
+    "categoria": "Fantasia",
+    "editora": "Editora Martins",
+    "avaliacao": 4.7,
+    "imagemCapa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg"
+  },
+  {
+    "id": 11,
+    "nomeLivro": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+    "nomeAutor": "C.S. Lewis",
+    "ano": 1950,
+    "qtdPaginas": 208,
+    "sinopse": "Este é o primeiro livro da série As Crônicas de Nárnia, que narra as aventuras de crianças que descobrem um mundo mágico escondido dentro de um guarda-roupa.",
+    "categoria": "Fantasia",
+    "editora": "Editora Martins",
+    "avaliacao": 4.6,
+    "imagemCapa": "https://m.media-amazon.com/images/I/7158aW38zxL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 12,
+    "nomeLivro": "Percy Jackson e o Ladrão de Raios",
+    "nomeAutor": "Rick Riordan",
+    "ano": 2005,
+    "qtdPaginas": 400,
+    "sinopse": "O livro segue a jornada de Percy Jackson, um adolescente que descobre ser um semideus, filho de Poseidon, e é enviado para um acampamento especial para pessoas como ele.",
+    "categoria": "Fantasia",
+    "editora": "Editora Intrínseca",
+    "avaliacao": 4.5,
+    "imagemCapa": "https://m.media-amazon.com/images/I/61JenSx3wKL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  },
+  {
+    "id": 13,
+    "nomeLivro": "A Bússola de Ouro",
+    "nomeAutor": "Philip Pullman",
+    "ano": 1995,
+    "qtdPaginas": 399,
+    "sinopse": "Neste primeiro livro da trilogia Fronteiras do Universo, uma jovem chamada Lyra Belacqua embarca em uma jornada para resgatar seu amigo e descobre um plano maligno que ameaça o universo.",
+    "categoria": "Fantasia",
+    "editora": "Editora Objetiva",
+    "avaliacao": 4.4,
+    "imagemCapa": "https://uploads.jovemnerd.com.br/wp-content/uploads/2017/02/bussola-de-ouro.jpg"
+  }
+]
